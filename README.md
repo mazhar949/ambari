@@ -1,2 +1,0 @@
-# ambari
-Ambari RPM's
